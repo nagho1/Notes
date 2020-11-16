@@ -28,6 +28,11 @@
  
 ### Non-Relational Databases or NoSQL
  * Stores data but it does not use rows, tables, primary keys, or foreign keys.
- * 
+ * They store large amounts of data with little structure
+ * They provide scalability and flexibility 
+ * They can capture structured, unstructured, and "BIG DATA"
+ * Examples: MongoDB, Apache Cassandra, and Redis
+ * Uses ORM(Object-relational mapping) to manage its data instead of SQL
+ * Examples of ORMs: Java, JavaScript, .NET, and PHP
 
 
