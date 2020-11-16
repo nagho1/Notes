@@ -7,6 +7,7 @@
 * Scalable because they lack structure
 
 ## What is a Database?
+* A database is a systematic collection of data that supports electronic storage and manipulation of data.
 * 
 
 
