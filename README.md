@@ -15,4 +15,19 @@
 
 ### Relational and Non-Relational Databases
 
+### Relational Databases
+ * First mentioned in 1970 paper by IBM's E.F. Codd
+ * Stores data in tables and rows known as records
+ * Examples: Microsoft SQL Sever, MySQL, SQLite, and PostgreSQL
+ * Links data from multiple tables through the use of keys: A unique identifier that can be assigned to a row of data.
+ * Primary key is used when a record has a relationship to the record in the main table
+ * Foreign key is the primary key that is added to another table
+ * The two keys create a relationship between the records and across multiple tables.
+ * Relational Databases uses SQL(Structured Query Language) to manage data. 
+ * Examples are SELECT, TO, JOIN, FROM, and WHERE
+ 
+### Non-Relational Databases or NoSQL
+ * Stores data but it does not use rows, tables, primary keys, or foreign keys.
+ * 
+
 
