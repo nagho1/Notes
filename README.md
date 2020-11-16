@@ -11,5 +11,6 @@
 * A database can be organized into tables, rows, columns and index it so that it is easier to find information.
 * Example of a database would be a phonebook: A phone book has a list of names, phone numbers, and more information. 
 * Databases can be used to handle many websites.
+* Data can be stored and retrieved.
 
 
