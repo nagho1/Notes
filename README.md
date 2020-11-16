@@ -36,4 +36,10 @@
  * Examples of ORMs: Java, JavaScript, .NET, and PHP
 
 ## Database Functionality 
- * 
+ * Managing data
+ * Storing data
+ * Data Security
+ * Multiple uses should be able to acces the database
+ * Backup and recover data
+ * Database access through different languages
+ * Database communication
