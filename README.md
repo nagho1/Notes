@@ -45,4 +45,12 @@
  * Database communication
  
 ## Cloud-based Database Servers
- * 
+ * Cloud-based database servers can be managed by a user or a user can pay a provider to manage it for them.
+ * Supports relational databases
+ * Accessed through a web interface or vendor provided API
+ * Easy access because users can access the cloud from anywhere
+ * Scalability is used in cloud based database servers because users can expand their storage or change it
+ * Data is kept secure on remote servers if so that data cannot be lost
+ * Users can use a virtual machine to manage their databases
+ * Database as a service is when a database cloud service takes over management of all infrastructure.
+ * Examples: AWS, Google Cloud, Azure, and Cloud SQL
