@@ -35,4 +35,5 @@
  * Uses ORM(Object-relational mapping) to manage its data instead of SQL
  * Examples of ORMs: Java, JavaScript, .NET, and PHP
 
-
+## Database Functionality 
+ * 
